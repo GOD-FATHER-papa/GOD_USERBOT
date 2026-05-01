@@ -190,7 +190,7 @@ async def hello_world(client: Client, message: Message):
     await asyncio.sleep(0.4)
     await mg.edit("ᴛᴏᴘɪ")
     await asyncio.sleep(0.3)
-    await mg.edit(" ᴊᴏʀ sᴇ ʙᴏʟᴏ ɢᴏᴅ ғᴀᴛʜᴇʀ ᴘᴀᴘᴀ ᴊɪ ᴋɪ ᴊᴀɪ💘")
+    await mg.edit(" ᴊᴏʀ sᴇ ʙᴏʟᴏ ʀᴏɴᴇʏ ᴘᴀᴘᴀ ᴊɪ ᴋɪ ᴊᴀɪ💘")
 
 
 @Client.on_message(filters.command("brain", ".") & filters.me)
@@ -244,7 +244,7 @@ async def gahite(client: Client, message: Message):
     await asyncio.sleep(0.5)
     await message.edit("▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n😵😵😵😵 \n")
     await asyncio.sleep(0.5)
-    await message.edit("`𝐑ɪᴘ ᴍᴀʀ ɢʏᴀ ʙsᴅᴋ😂😂......`")
+    await message.edit("`ᴜᴅᴀ ᴅɪʏᴀ ᴘᴀᴋɪsᴛᴀɴ ʀᴏɴᴇʏ ᴘᴀᴘᴀ ɴᴇ😂😂......`")
     await asyncio.sleep(2)
 
 
@@ -451,7 +451,7 @@ async def kocok(client: Client, message: Message):
     await e.edit("8===✊D💦💦💦💦💦💦💦💦💦")
     await e.edit("8==✊=D💦💦💦💦💦💦💦💦💦💦")
     await e.edit("8=✊==D ᴋʜᴀᴛᴀᴍ ᴛᴀᴛᴀ ʙʏᴇ ɢᴏᴏᴅ ʙʏᴇ ɢʏᴀ")
-    await e.edit("ᴀʙᴇ sᴀʟᴇ ᴋʏᴀ ᴅᴇᴋʜ ʀᴀʜᴀ ᴛᴜ ʙʜɪ ᴛᴏʜ ᴋᴀʀᴛᴀ")
+    await e.edit("ᴀʙᴇ sᴀʟᴇ ᴋʏᴀ ᴅᴇᴋʜ ʀᴀʜᴀ ᴛᴜ ʙʜɪ ᴛᴏʜ ᴋᴀʀᴛᴀ ʜᴀɪ")
 
 
 @Client.on_message(filters.command(["fuck", "fucek"], ".") & filters.me)
@@ -539,7 +539,7 @@ async def hak(client: Client, message: Message):
     await message.edit_text("Hacking complete!\nUploading file...")
     await asyncio.sleep(2)
     await message.edit_text(
-        "Targeted Account Hacked...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12` 𝐅𝐎𝐑 𝐑𝐄𝐌𝐎𝐕𝐄 𝐌𝐄𝐄𝐓 𝐌𝐘 [𝐎𝐖𝐍𝐄𝐑 𝐆𝐎𝐃](https://t.me/lll_GOD_FATHER_PAPA_lll)"
+        "Targeted Account Hacked...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12` 𝐅𝐎𝐑 𝐑𝐄𝐌𝐎𝐕𝐄 𝐌𝐄𝐄𝐓 𝐌𝐘 [𝐎𝐖𝐍𝐄𝐑 𝐆𝐎𝐃](https://t.me/lll_RONEY_THE_BRAND_lll)"
     )
 
 
@@ -856,7 +856,7 @@ async def helikopter(client: Client, message: Message):
         "▬▬▬.◙.▬▬▬ \n"
         "═▂▄▄▓▄▄▂ \n"
         "◢◤ █▀▀████▄▄▄▄◢◤ \n"
-        "█▄ █ █▄ ███𝐆𝐎𝐃▀▀▀▀╬ \n"
+        "█▄ █ █▄ ███𝐑𝐎𝐍𝐄𝐘▀▀▀▀╬ \n"
         "◥█████◤ \n"
         "══╩══╩══ \n"
         "╬═╬ \n"
@@ -865,7 +865,7 @@ async def helikopter(client: Client, message: Message):
         "╬═╬ \n"
         "╬═╬ \n"
         "╬═╬ \n"
-        "╬═╬ ʜᴇʟʟᴏ ɢᴏᴅ ғᴀᴛʜᴇʀ ᴘᴀᴘᴀ ɴɪᴄʜᴇ ᴅᴇᴋʜᴏ :) \n"
+        "╬═╬ ʜᴇʟʟᴏ ʀᴏɴᴇʏ ᴘᴀᴘᴀ ɴɪᴄʜᴇ ᴅᴇᴋʜᴏ :) \n"
         "╬═╬☻/ \n"
         "╬═╬/▌ \n"
         "╬═╬/ \\ \n",
@@ -884,7 +884,7 @@ async def dornembak(client: Client, message: Message):
 async def ngebundir(client: Client, message: Message):
     await edit_or_reply(
         message,
-        "`ᴋᴜᴄʜ ɴᴀ ʙʀᴏ..ʙs #_ɢᴏᴅ-ғᴀᴛʜᴇʀ sᴇ ᴘᴀɴɢᴀ ʟɪʏᴀ...ɪsʟɪʏᴇ ʙᴀʀʙᴀᴅ ᴋᴀʀ ᴅɪʏᴀ ᴍᴜᴊʜᴇ ɢᴏᴅ ғᴀᴛʜᴇᴛ ʙᴀᴀᴘ ɴᴇ`          \n　　　　　|"
+        "`ᴋᴜᴄʜ ɴᴀ ʙʀᴏ..ʙs #_ʀᴏɴᴇʏ sᴇ ᴘᴀɴɢᴀ ʟɪʏᴀ...ɪsʟɪʏᴇ ʙᴀʀʙᴀᴅ ᴋᴀʀ ᴅɪʏᴀ ᴍᴜᴊʜᴇ ʀᴏɴᴇʏ ᴛʜᴇ ʙʀᴀɴᴅ ɴᴇ`          \n　　　　　|"
         "\n　　　　　| \n"
         "　　　　　| \n"
         "　　　　　| \n"
@@ -909,7 +909,7 @@ async def awikwok(client: Client, message: Message):
         "──▄▀█▄▄▄─────▄▀█▄▄▄\n"
         "▄▀──█▄▄──────█─█▄▄\n"
         "─▄▄▄▀──▀▄───▄▄▄▀──▀▄\n"
-        "─▀───────▀▀─▀───────▀▀\n`ɴɪᴋᴀʟ ᴍᴄ😥😥.. ɢᴀᴀʟɪ ɴᴀ ᴅᴇ ᴠᴀʀɴᴀ ɢᴏᴅ ғᴀᴛʜᴇʀ ᴛᴇʀɪ ɢ**ᴅ ᴍᴀᴀʀ ʟᴇɢᴀ.👻`",
+        "─▀───────▀▀─▀───────▀▀\n`ɴɪᴋᴀʟ ʙᴇᴛᴀ😥😥.. ɢᴀᴀʟɪ ɴᴀ ᴅᴇ ᴠᴀʀɴᴀ ʀᴏɴᴇʏ ᴘᴀᴘᴀ ᴀᴀ ᴊᴀʏᴇɢᴇ.👻`",
     )
 
 
@@ -924,8 +924,8 @@ async def ysaja(client: Client, message: Message):
         "‡‡‡‡‡‡‡‡‡█‡‡‡‡‡‡█\n"
         "██████▄▄█‡‡‡‡‡‡████████▄\n"
         "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡█\n"
-        "▓▓▓▓▓▓█‡‡‡💘#_ɢᴏᴅ-ғᴀᴛʜᴇᴛ👻‡‡‡‡‡‡‡‡█\n"
-        "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡💗ʙʏ 𝐆𝐎𝐃 𝐅𝐀𝐓𝐇𝐄𝐑🌺‡‡‡‡█\n"
+        "▓▓▓▓▓▓█‡‡‡💘#_ʀᴏɴᴇʏ ʙʀᴀɴᴅ👻‡‡‡‡‡‡‡‡█\n"
+        "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡💗ʙʏ 𝐑𝐎𝐍𝐄𝐘🌺‡‡‡‡█\n"
         "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡█\n"
         "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡█\n"
         "▓▓▓▓▓▓█████‡‡‡‡‡‡‡‡‡‡‡‡██\n"
@@ -939,7 +939,7 @@ async def tank(client: Client, message: Message):
         message,
         "█۞███████]▄▄▄▄▄▄▄▄▄▄▃ \n"
         "▂▄▅█████████▅▄▃▂…\n"
-        "[████ ɢᴏᴅ-𝐅𝐀𝐓𝐇𝐄𝐓🔥████████]\n"
+        "[████ ɢᴏᴅ-𝐑𝐎𝐍𝐄𝐘🔥████████]\n"
         "◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤\n",
     )
 
@@ -949,7 +949,7 @@ async def babi(client: Client, message: Message):
     await edit_or_reply(
         message,
         "┈┈┏━╮╭━┓┈╭━━━━╮\n"
-        "┈┈┃┏┗┛┓┃╭┫@lll_GOD_FATHER_PAPA_lll ┃\n"
+        "┈┈┃┏┗┛┓┃╭┫@lll_RONEY_THE_BRAND_lll ┃\n"
         "┈┈╰┓▋▋┏╯╯╰━━━━╯\n"
         "┈╭━┻╮╲┗━━━━╮╭╮┈\n"
         "┈┃▎▎┃╲╲╲╲╲╲┣━╯┈\n"
