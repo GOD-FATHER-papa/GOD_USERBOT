@@ -110,7 +110,7 @@ async def hearts(client: Client, message: Message):
     await asyncio.sleep(0.5)
     await message.edit("❤️ I Love You")
     await asyncio.sleep(3)
-    await message.edit("❤️ I Love You <3")
+    await message.edit("❤️ I Love You ᴋᴀʟʟᴏ")
 
 
 @Client.on_message(
@@ -865,7 +865,7 @@ async def helikopter(client: Client, message: Message):
         "╬═╬ \n"
         "╬═╬ \n"
         "╬═╬ \n"
-        "╬═╬ ʜᴇʟʟᴏ ʀᴏɴᴇʏ ᴘᴀᴘᴀ ɴɪᴄʜᴇ ᴅᴇᴋʜᴏ :) \n"
+        "╬═╬ ʜᴇʟʟᴏ ᴠɪᴋᴀsʜ ʙᴀʙᴜ :) \n"
         "╬═╬☻/ \n"
         "╬═╬/▌ \n"
         "╬═╬/ \\ \n",
